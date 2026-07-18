@@ -30,7 +30,7 @@ Increase `r.RayTracing.NormalBias` ❌
 
 Set `r.Shadow.DistanceScale` to `0`. ❌
 - Landscape shadows appeared correct.
-- However, distant shadows cast by other objects disappeared.
+- However, all shadows cast by other objects disappeared.
 - Not a viable solution.
 
 Disable `Cast Ray Traced Shadows` in the landscape material. ✅
