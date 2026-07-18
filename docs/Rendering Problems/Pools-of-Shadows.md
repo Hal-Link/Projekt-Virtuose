@@ -17,4 +17,4 @@ This solves the problem by elevating ray origins of the objects, ignoring the li
 - New blank project
 
 ## Status
-- Workaround
+- Resolved
