@@ -13,10 +13,8 @@ The other solution is to increase r.RayTracing.NormalBias to a value about 5 in 
 This solves the problem by elevating ray origins of the objects, ignoring the light blockages that are too close to the ground and preventing self-shadowing.
 
 ## Tested in
-
--Unreal Engine 5.8
--New blank project
+- Unreal Engine 5.8
+- New blank project
 
 ## Status
-
-**Workaround**
+- Workaround
