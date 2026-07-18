@@ -19,4 +19,4 @@ This solves the problem by elevating ray origins of the objects, ignoring the li
 
 ## Status
 
--Workaround
+**Workaround**
