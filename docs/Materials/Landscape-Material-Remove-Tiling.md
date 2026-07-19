@@ -7,8 +7,8 @@ When applying materials to big meshes such as landscapes, a tile-like pattern ap
 To solve this issue, I combined 2 solutions and implemented them at the same time for a much natural landscape view.
 
 - Distance Tiling
-  This solution consists of scaling up the landscape texture where it is farther away from the camera and use normal scaling where it is closer to the camera.
-  This way overall less patterns are shown to the camera, thus, less tiling patterns appear.
+  This solution consists of using a larger texture scale in the distance while using a smaller texture scale (higher UV tiling) close to the camera.
+  This way textures are repeated fewer time across the landscape, thus, less tiling patterns appear.
 
 - How to implement:
 
