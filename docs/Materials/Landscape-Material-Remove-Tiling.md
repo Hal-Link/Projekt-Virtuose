@@ -1,6 +1,6 @@
 **Tags:** Unreal Engine 5.8, Materials, Tiling, Distance Tiling, Color Variation, Preferred Fixes
 
-When applying materials to big meshes such as landscapes, a tile-like pattern appears since the material gets repeated along the surface such as this:
+When applying materials to big meshes such as landscapes, a tile-like pattern appears since the material gets repeated along the surface like this:
 
 <img width="853" height="533" alt="Screenshot 2026-07-19 154221" src="https://github.com/user-attachments/assets/20dee33f-9c31-4884-872d-24df4e2edc20" />
 
