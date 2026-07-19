@@ -23,6 +23,7 @@ To solve this issue, I combined 2 solutions and implemented them at the same tim
   Create a CameraDepthFade node and assign 2 new parameters by pressing S + Left Mouse for Fade Offset and Fade Length inputs.
 
   Fade offset value is the length of a camera centered radius outside of which the textures start to get bigger.
+
   Fade Length value is the length along which the textures keep getting bigger until they reach the size you determined through multiplying the UV value of your textures.
 
   Finally you have to connect the CameraDepthFade node's output to the alpha pin to determine which textures to blend.
