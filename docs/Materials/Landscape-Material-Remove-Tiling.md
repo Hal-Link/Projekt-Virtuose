@@ -11,6 +11,7 @@ To solve this issue, I combined 2 solutions and implemented them at the same tim
   This way overall less patterns are shown to the camera, thus, less tiling patterns appear.
 
 - How to implement:
+
   First duplicate your textures in your landscape material blueprint and connect them to MakeMaterialAttribute nodes.
   Then you need to multiply the UV of the textures you want to use on distant landscape by a lower number to make them look bigger.
   You can keep the other textures' UV values the same or you can tweak them for a look you want.
