@@ -58,7 +58,7 @@ To solve this issue, I combined 2 solutions and implemented them at the same tim
 
   This last step will collapse the node into one input pin to which you can connect SetMaterialAttributes output pin to fully implement these 2 solutions.
 
-  By changing the color parameter, you can now determine which color will appear in with your texture.
+  By changing the color parameter, you can now determine which color will appear along with your texture.
 
 <img width="853" height="533" alt="Screenshot 2026-07-19 205056" src="https://github.com/user-attachments/assets/f4808693-3e62-49d5-a22b-b289b909479b" />
 
