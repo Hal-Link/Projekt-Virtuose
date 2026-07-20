@@ -7,7 +7,7 @@ After enabling Ray Traced Shadows through the Project Settings, I encountered an
 
 After days of research and selling my soul to the devil, I finally isolated the problem to the interaction between Ray Traced Shadows and my Nanite-enabled landscape. Disabling either Nanite or Ray Traced Shadows eliminated the artifacts.
 
-Since I wanted my non-landscape objects to continue benefiting from Ray Traced Shadows, I disabled the Cast Ray Traced Shadows option in my landscape material. This prevented the landscape from participating in the ray-traced shadow pass, and the artifacts disappeared.
+Since I wanted my non-landscape objects to continue benefiting from Ray Traced Shadows, I disabled the Cast Ray Traced Shadows option through my landscape material blueprint. This prevented the landscape from participating in the ray-traced shadow pass, and the artifacts disappeared.
 
 <img width="853" height="533" alt="Screenshot 2026-07-18 233733" src="https://github.com/user-attachments/assets/9f77c5c9-7fa0-4671-bff0-222105f3066b" />
 
