@@ -48,7 +48,7 @@ To solve this issue, I combined 2 solutions and implemented them at the same tim
 
   For the alpha pin of lerp, create a texture sample node and assign a noise texture of your choice from the details panel (this determines the places this fix will affect
 
-  I used one of Unreal Engine's built in textures called T_Noise01. You can use it as a texture sample by creating a Texture Sample node and before selecting the texture, enable show engine content as shown:
+  I used one of Unreal Engine's built in textures called T_Noise01. You can use it as a texture sample by creating a Texture Sample node and before selecting the texture, enable Show Engine Content as shown:
 
   <img width="853" height="533" alt="Screenshot 2026-07-21 144017" src="https://github.com/user-attachments/assets/9106b936-e080-4acb-87cb-547ca73a9dd9" />
 
