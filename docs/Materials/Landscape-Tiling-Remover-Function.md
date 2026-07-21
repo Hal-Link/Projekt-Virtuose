@@ -36,7 +36,7 @@ In my solution explanation, I was first implementing the Distance Tiling fix and
 
   <img width="853" height="533" alt="Screenshot 2026-07-21 132142" src="https://github.com/user-attachments/assets/4ae4ef69-0ce7-414f-9570-c29e5c8e1144" />
 
-For referance, this is how my function looks like inside my landscape material blueprint (You have to use Texture Objects instead of texture samples when plugging into Texture2D inputs):
+For referance, this is what my function looks like inside my landscape material blueprint, along with the values I tweaked and settled on (You have to use Texture Objects instead of texture samples when plugging into Texture2D inputs):
 
 <img width="853" height="533" alt="Screenshot 2026-07-21 145049" src="https://github.com/user-attachments/assets/b421e24f-2530-45b1-ad31-4d4e4e1bcc94" />
 
