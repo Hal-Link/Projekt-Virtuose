@@ -11,3 +11,9 @@ This function enables you to apply tiling fixes on more than one landscape mater
   I connected my Texture2D input nodes to texture samples and connected the RGBs to the appropriate pins and assigned their UVs.
   
   <img width="853" height="533" alt="Screenshot 2026-07-21 130528" src="https://github.com/user-attachments/assets/3e8add3c-c71c-437c-aaa7-60b209d3e161" />
+
+---
+
+This part is where I changed a few things:
+
+In my solution explanation, I was first 
