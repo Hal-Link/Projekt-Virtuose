@@ -18,3 +18,6 @@ This solves the problem by elevating ray origins of the objects, ignoring the li
 
 ## Status
 - Workaround
+
+---
+**Update:** It turned out this was an Unreal Engine 5.8 problem and didn't occur with the same setup in UE 5.7.4
