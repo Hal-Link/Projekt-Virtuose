@@ -1,5 +1,9 @@
 **Tags:** Unreal Engine 5.8, Nanite, Landscape, Ray Traced Shadows, Shadow Pools, Rendering, Workaround
 
+---
+**Update:** It turned out this was an Unreal Engine 5.8 problem and didn't occur with the same setup in UE 5.7.4
+---
+
 I stumbled upon a problem when experimenting with Ray Traced Shadows and a landscape which had a tessellation-enabled and displaced texture on.
 
 <img width="853" height="533" alt="Screenshot 2026-07-17 170950" src="https://github.com/user-attachments/assets/4e1156f2-0114-496e-81f8-d87ad59478ab" />
@@ -19,5 +23,3 @@ This solves the problem by elevating ray origins of the objects, ignoring the li
 ## Status
 - Workaround
 
----
-**Update:** It turned out this was an Unreal Engine 5.8 problem and didn't occur with the same setup in UE 5.7.4
