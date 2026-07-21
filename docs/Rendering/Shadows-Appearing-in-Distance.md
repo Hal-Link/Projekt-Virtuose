@@ -1,5 +1,8 @@
 **Tags:** Unreal Engine 5.8, Nanite, Landscape, Ray Traced Shadows, Shadow Artifacts, Rendering, Workaround
 
+---
+**Update:** It turned out this was an Unreal Engine 5.8 problem and didn't occur with the same setup in UE 5.7.4
+---
 After enabling Ray Traced Shadows through the Project Settings, I encountered an issue where blocky shadow artifacts appeared as I moved farther away.
 
 <img width="853" height="533" alt="Screenshot 2026-07-18 233622" src="https://github.com/user-attachments/assets/044ad1ff-653a-418e-88b9-af50f39589bf" />
