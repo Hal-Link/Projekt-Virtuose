@@ -69,5 +69,5 @@ To solve this issue, I combined 2 solutions and implemented them at the same tim
 - New project
 
 ## Status
-- Resolved
+- Fix
 
