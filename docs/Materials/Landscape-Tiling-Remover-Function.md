@@ -32,7 +32,7 @@ In my solution explanation, I was first implementing Distance Tiling fix and the
 
   <img width="853" height="533" alt="Screenshot 2026-07-21 133510" src="https://github.com/user-attachments/assets/042aff85-cbdc-4bea-84d7-a7259c80658d" />
 
-  Finally by using the 2 output pins of the implemented Color Variation, I implemented Distance Tiling and plugged them all into function output result node.
+  Finally by using the 2 output pins of the implemented Color Variation, I implemented Distance Tiling and plugged them all into function output result node, giving you a     function you can fully customize with 14 input pins.
 
   <img width="853" height="533" alt="Screenshot 2026-07-21 132142" src="https://github.com/user-attachments/assets/4ae4ef69-0ce7-414f-9570-c29e5c8e1144" />
 
