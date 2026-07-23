@@ -48,6 +48,8 @@ I later multiplied the height values of the function by 2 different inputs so th
 
 <img width="347" height="134" alt="Screenshot 2026-07-23 184414" src="https://github.com/user-attachments/assets/7d81ac0c-4b53-4ad3-a7e5-6bc1cdc78df9" />
 
+<img width="280" height="116" alt="Screenshot 2026-07-23 185021" src="https://github.com/user-attachments/assets/6468551d-c75a-435b-b4db-a78d349d280e" />
+
 ---
 
 ## Made in
