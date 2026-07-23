@@ -40,6 +40,16 @@ For referance, this is what my function looks like inside my landscape material 
 
 <img width="853" height="533" alt="Screenshot 2026-07-21 145049" src="https://github.com/user-attachments/assets/b421e24f-2530-45b1-ad31-4d4e4e1bcc94" />
 
+---
+
+**Update:**
+
+I later multiplied the height values of the function by 2 different inputs so that I could apply different magnitudes of tessellation to different materials in my landscape.
+
+<img width="347" height="134" alt="Screenshot 2026-07-23 184414" src="https://github.com/user-attachments/assets/7d81ac0c-4b53-4ad3-a7e5-6bc1cdc78df9" />
+
+---
+
 ## Made in
 - Unreal Engine 5.7.4
 - New Project
